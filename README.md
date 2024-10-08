@@ -1,7 +1,7 @@
 <h1>Nike Clone</h1>
 
 <p>
-    This project is a clone of the Nike website built using React.js. The goal of this project is to replicate the design, layout, and functionality of the original Nike website to enhance web development skills, especially in React.
+    This project is a clone of the Nike website built using React.js and Tailwind CSS. The goal of this project is to replicate the design, layout, and functionality of the original Nike website to enhance web development skills, especially in React.
 </p>
 
 <h2>Features</h2>
