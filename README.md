@@ -1,4 +1,6 @@
 Nike Clone
+
+
 This project is a clone of the Nike website built using React.js. The goal of this project is to replicate the design, layout, and functionality of the original Nike website to enhance web development skills, especially in React.
 
 Features
@@ -26,7 +28,7 @@ Usage
 
 To run the project locally, use the following command:
 npm start
-This will start the development server, and the app will be available at http://localhost:3000.
+This will start the development server, and the app will be available at localhost
 
 
 License
