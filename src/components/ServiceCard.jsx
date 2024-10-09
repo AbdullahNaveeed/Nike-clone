@@ -13,5 +13,5 @@ const ServiceCard = ({ imgURL, label, subtext }) => {
     </div>
   );
 };
-
+// This is service card Component
 export default ServiceCard;
