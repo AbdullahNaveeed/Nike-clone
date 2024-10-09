@@ -13,5 +13,5 @@ const PopularProductCard = ({ imgURL, name, price }) => {
     </div>
   );
 };
-
+// This is PopularProductCard Component
 export default PopularProductCard;
